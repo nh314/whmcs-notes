@@ -23,7 +23,7 @@ Object's properties
 1. isVisitorIPBanned
 1. getWHMCSInstanceID
 1. getCurrentFilename
-1. getSystemURL
+1. getSystemURL($withTrailing = TRUE)
 1. getSystemSSLURL
 1. getSystemSSLURLOrFail
 1. isSSLAvailable
